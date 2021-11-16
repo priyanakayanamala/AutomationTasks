@@ -1,0 +1,9 @@
+Write Basic calc class to perform ADD, SUB, MUL, DIV
+Write Advanced calc class extending base calc to perform power of two numbers (base and power value as inputs - implement get and set methods for base and power properties)
+Write static method which prints how many times Advanced cals is used/called
+Add new custom method for Date() buit in object - toIndDateString which print current date in dd/mm/yy format (tip use prototype to add new method)
+Write function which accepts Array input (check all array elements are numbers) and print elements which are between 50 to 100
+Write function which accepts Array input and prints new array with reversing the string elements
+Write function which check string is palindrome (do not use string reverse check) Also print if palindrome is exact case sensitive (example LeveL is trie and Level is false)
+Write function which accepts Array input as strings print new array in alphabetical order by first character. lower case should be considered first.
+Write function which print 1 to 10 with 3 seconds delay between each character printing (user promise asyn and await)
